@@ -31,7 +31,7 @@ class Myarray {
         }
     }
     public int findIndex(int value){
-        for(int i=0; i<item.length; i++){
+        for(int i=0; i<this.currentIndex; i++){ //optimize item.length(less optimize) place  this.currentIndex(more optimize)
             if(item[i] == value){
                 System.out.println("Index of "+value+" is "+i);
             }
