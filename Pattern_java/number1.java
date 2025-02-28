@@ -67,7 +67,7 @@ import java.util.Scanner;
 // 6 7 8 9 
 // 10 11 12 13 14
 
-
+//q4
 public class number1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
