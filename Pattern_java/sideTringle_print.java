@@ -1,4 +1,4 @@
-package Pattern_java;
+//package Pattern_java;
 
 public class sideTringle_print {
     public static void main(String[] args) {

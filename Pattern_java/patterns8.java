@@ -1,4 +1,4 @@
-package Pattern_java;
+//package Pattern_java;
 
 public class patterns8 {
     public static void main(String[] args) {
