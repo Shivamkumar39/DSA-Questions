@@ -1,6 +1,6 @@
 public class CreateArray {    
     public static void main(String args[]) {
-        Myarray arr = new Myarray(6);
+        Myarray arr = new Myarray(10);
         arr.insertElement(1);
         arr.insertElement(2);
         arr.insertElement(3);
@@ -8,7 +8,7 @@ public class CreateArray {
         arr.insertElement(5);
         arr.insertElement(6);
 
-       // System.out.println(arr); // Calls overridden toString() method
+        System.out.println(arr); // Calls overridden toString() method
         System.out.println(arr.findIndex(6));
     }    
 }

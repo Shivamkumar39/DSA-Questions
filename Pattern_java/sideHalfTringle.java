@@ -1,5 +1,4 @@
-package Pattern_java;
-
+//package Pattern_java;
 public class sideHalfTringle {
     public static void main(String[] args) {
         int n = 5;
