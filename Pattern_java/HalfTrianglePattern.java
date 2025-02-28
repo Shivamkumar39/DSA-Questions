@@ -1,4 +1,4 @@
-package Pattern_java;
+//package Pattern_java;
 public class HalfTrianglePattern {
     public static void main(String[] args) {
         int n = 5;

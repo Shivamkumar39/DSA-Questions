@@ -1,4 +1,3 @@
-package Pattern_java;
 
 public class HalfTringl_opposite{
     public static void main(String[] args) {
