@@ -12,3 +12,28 @@ BitwiseOperaters
 <<== left shift
 >>== right shift
 >>>== zero fill right shift
+
+formula for finding digit in number
+int count=0;
+while(number!=0)
+{
+number=number/10;
+count++;
+}  
+System.out.println("number of digit in number is:"+count);
+
+finding bit in number
+int count=0;
+while(number!=0)
+{
+    ans =(ans * 10^i) + digit;
+number=number>>1;
+count++;
+}
+System.out.println("number of bit in number is:"+count);
+
+
+//switch & function
+How to out from switch case in infinite loop?
+continue is not valid with switch case
+
