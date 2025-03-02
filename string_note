@@ -37,3 +37,6 @@ System.out.println("number of bit in number is:"+count);
 How to out from switch case in infinite loop?
 continue is not valid with switch case
 
+/// XOR IS to much important to understand
+/// XOR is used to find the odd number of time repeated number in array
+///it use when cheak dublicate element present or not ( ans = ans^arr[i] && ans = ans^i)
