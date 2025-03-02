@@ -5,10 +5,11 @@ import java.util.Scanner;
 public class aarayexample {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        // int[] arr1 = {1, 2, 3, 4, 5, 6};
 
         int arr[] = { 100, 300, 100, 500 };
         System.out.println("Array is: " + Arrays.toString(arr));
+
+        
         // sum of array
         int sum = 0;
         for (int i = 0; i < arr.length; i++) {
