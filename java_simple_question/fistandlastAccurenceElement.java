@@ -4,6 +4,8 @@ public class fistandlastAccurenceElement{
     public static void main(String[] args) {
         int arr[] = {1, 3, 5, 7, 2, 8, 5};
         int target = 5;
+
+        //this line sort the arrys
         Arrays.sort(arr);
         System.out.println("Sorted Array: " + Arrays.toString(arr));
 
