@@ -22,7 +22,6 @@ public class fistandlastAccurenceElement{
 
         while (s <= e) {
             int mid = s + (e - s) / 2;
-
             if (arr[mid] == target) {
                 ans = mid;
                 e = mid - 1; // Move left for first occurrence
@@ -41,7 +40,6 @@ public class fistandlastAccurenceElement{
 
         while (s <= e) {
             int mid = s + (e - s) / 2;
-
             if (arr[mid] == target) {
                 ans = mid;
                 s = mid + 1; // Move right for last occurrence
