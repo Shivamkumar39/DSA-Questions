@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+//using two pointer approch
 public class short01 {
     public static void main(String[] args) {
         int[] a = {0, 1, 1, 0, 0, 1, 0, 1, 0, 1};
