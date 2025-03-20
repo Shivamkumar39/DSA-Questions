@@ -50,7 +50,7 @@ public class search_rotated_array {
             }
             if (key > arr[mid]) {
                 s = mid + 1;
-            } else {
+            }else {
                 e = mid - 1;
             }
             mid = s + (e - s) / 2;
