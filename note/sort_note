@@ -4,3 +4,11 @@
 //selection sort
 it work on when size is sort of array, list , vector, then we use 
 @:- its is stable or non stable aloritham
+
+
+//bubble short
+it is stable or non stable aloritham
+we need to swap the element
+
+//insertion short
+--in insertion sort we need to sift not swap
