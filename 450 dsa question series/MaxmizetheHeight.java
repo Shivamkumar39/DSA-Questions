@@ -1,7 +1,7 @@
 //Minimise the maximum difference between heights [V.IMP]
 
 import java.util.Arrays;
-
+// confutions hai esmay 
 public class MaxmizetheHeight {
     public static void main(String[] args) {
         
