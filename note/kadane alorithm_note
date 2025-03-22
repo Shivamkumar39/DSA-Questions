@@ -1,0 +1,8 @@
+
+//alogithams
+1. sum = sum+ arr[i]
+2. maximum = Math.max(maxi, sum)
+3. if(sum<0){sum =0};
+
+above tree is a kadane's alorithm.
+
